@@ -1,0 +1,33 @@
+body{
+    
+    background: #333;
+    color: #fff;
+}
+.carousel-item {
+	height: 450px;
+}
+.carousel-image-1{
+    background: url(../img/aisle-beverages-bottles-811108.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.carousel-image-2{
+    background: url(../img/bananas-698608_1920.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.carousel-image-3{
+    background: url(../img/daria-volkova-1245973-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#txt{
+
+    margin-bottom: 300px;
+}
+
+#txt .text-danger{
+    color:#000;
+  text-shadow: 2px 2px 8px #FF0000;
+     
+}
